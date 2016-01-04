@@ -28,7 +28,7 @@ import com.base.util.UserUtil;
  * function action
  * 
  * 项目名称：base_spring_framework 类名称：FunctionController 类描述： function action
- * 创建人：huangxiong 创建时间：2015年2月6日 下午1:59:41 修改人：huangxiong 修改时间：2015年2月6日
+ * 创建人：limingxing 创建时间：2015年2月6日 下午1:59:41 修改人：limingxing 修改时间：2015年2月6日
  * 下午1:59:41 修改备注：
  * 
  * @version

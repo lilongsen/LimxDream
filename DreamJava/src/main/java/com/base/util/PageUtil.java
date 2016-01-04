@@ -8,8 +8,8 @@ import com.github.pagehelper.PageInfo;
 /**
  * 
  * 
- * 项目名称：base_spring_framework 类名称：PageUtil 类描述： 封装list展示 创建人：huangxiong
- * 创建时间：2015年2月6日 下午1:43:58 修改人：huangxiong 修改时间：2015年2月6日 下午1:43:58 修改备注：
+ * 项目名称：base_spring_framework 类名称：PageUtil 类描述： 封装list展示 创建人：limingxing
+ * 创建时间：2015年2月6日 下午1:43:58 修改人：limingxing 修改时间：2015年2月6日 下午1:43:58 修改备注：
  * 
  * @version
  * 

@@ -8,9 +8,9 @@ package com.base.util;
  * 项目名称：base_spring_framework   
  * 类名称：ConstantUtil   
  * 类描述：   
- * 创建人：huangxiong
+ * 创建人：limingxing
  * 创建时间：2015年2月6日 下午2:26:08   
- * 修改人：huangxiong   
+ * 修改人：limingxing   
  * 修改时间：2015年2月6日 下午2:26:08   
  * 修改备注：   
  * @version    
