@@ -3,7 +3,7 @@ import java.sql.Timestamp;
 
 /**
  * 
- * 项目名称：base_spring_framework 类名称：Function 类描述： 创建人：huangx 创建时间：2015年1月27日 下午6:38:12 修改人：huangx
+ * 项目名称：base_spring_framework 类名称：Function 类描述： 创建人：limingxing 创建时间：2015年1月27日 下午6:38:12 修改人：limingxing
  * 修改时间：2015年1月27日 下午6:38:12 修改备注：
  * 
  * @version 1.0

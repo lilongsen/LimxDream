@@ -11,7 +11,7 @@ import com.base.model.Role;
 /**
  * role操作类
  * 
- * 项目名称：base_spring_framework 类名称：RoleService 类描述： 创建人：huangx 创建时间：2015年1月27日 下午7:02:54 修改人：huangx
+ * 项目名称：base_spring_framework 类名称：RoleService 类描述： 创建人：limingxing 创建时间：2015年1月27日 下午7:02:54 修改人：limingxing
  * 修改时间：2015年1月27日 下午7:02:54 修改备注：
  * 
  * @version 1.0
